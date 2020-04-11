@@ -1,5 +1,5 @@
 <?php
-    namespace Ramakrishnan\Chargebee;
+    namespace Ramakrishnansynamen\Chargebee;
 
     use Ramakrishnan\Chargebee\Environment;
     class Paymentsource
