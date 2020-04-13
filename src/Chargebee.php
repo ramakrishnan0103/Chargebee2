@@ -1,6 +1,6 @@
 <?php
    namespace Ramakrishnan\Chargebee;
-  
+    use yii;
    class Chargebee extends \yii\db\ActiveRecord
 {
     /**

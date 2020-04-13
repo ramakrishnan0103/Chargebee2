@@ -79,7 +79,7 @@
                'authorization' => 'Basic "'.Environment::authorization().'"'
             ])
             ->post($url1);
-            print_r($response);exit;
+            return $response;
       }
       public function updatesubscription($subscription_id,$addons_id,$addons_quantity)
       {
