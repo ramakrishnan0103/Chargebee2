@@ -1,5 +1,5 @@
 <?php
-   namespace Ramakrishnansynamen\Chargebee;
+   namespace Ramakrishnan\Chargebee;
     
    use linslin\yii2\curl;
    use Ramakrishnan\Chargebee\Environment;

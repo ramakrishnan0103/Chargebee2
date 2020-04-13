@@ -1,5 +1,5 @@
 <?php
-     namespace Ramakrishnansynamen\Chargebee;
+     namespace Ramakrishnan\Chargebee;
 
      class Environment
      {

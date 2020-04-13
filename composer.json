@@ -1,5 +1,5 @@
 {
-    "name": "ramakrishnansynamen/chargebee",
+    "name": "ramakrishnan/chargebee",
     "keywords": ["yii2","extension","backend","chargebee"],
     "license": "MIT",
     "authors": [
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-           "Ramakrishnansynamen\\Chargebee\\": "src/"
+           "Ramakrishnan\\Chargebee\\": "src/"
         }
     }
 }

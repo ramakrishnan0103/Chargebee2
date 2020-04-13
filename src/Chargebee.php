@@ -1,5 +1,5 @@
 <?php
-   namespace Ramakrishnansynamen\Chargebee;
+   namespace Ramakrishnan\Chargebee;
   
    class Chargebee extends \yii\db\ActiveRecord
 {
